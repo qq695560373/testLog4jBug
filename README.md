@@ -3,3 +3,4 @@ Log4j2爆出了利用难度极低的JNDI注入漏洞，当程序将用户输入�
 jndi下载https://github.com/welk1n/JNDI-Injection-Exploit
 ![image](https://user-images.githubusercontent.com/22991359/145966457-c667f2f7-a5dc-44bd-b056-f294f6037e40.png)
 图上地址复制到代码里注入就行了
+这篇文章讲了为啥会导致注入https://lorexxar.cn/2021/12/10/log4j2-jndi/
